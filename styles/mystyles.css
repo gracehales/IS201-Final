@@ -1,4 +1,31 @@
 body{
-    background-color: rgb(175, 209, 238);
+    background-color: rgb(206, 229, 248);
+}
+.nav-font{
+    color:azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size:medium;
+    font-weight: bold;
 }
 
+.caption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+.sub{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: larger;
+}
